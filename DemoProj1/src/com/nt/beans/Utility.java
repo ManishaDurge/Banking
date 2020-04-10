@@ -25,8 +25,10 @@ public class Utility {
 	
 	public void m6() {
 		System.out.println("m6");
+
 	}
 	
-
-	
+	public void m5() {
+		System.out.println("Utility.m5()");
+	}
 }
